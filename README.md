@@ -4,7 +4,7 @@
 ### 📁 **README.md for CHOLDAT - Cholera Database**
 
 ```markdown
-# CHOLDAT – Cholera Database
+# **CHOLDAT – Cholera Database**
 
 An interactive Shiny app designed to monitor, visualize, and explore cholera outbreak data across regions.
 
@@ -12,13 +12,13 @@ An interactive Shiny app designed to monitor, visualize, and explore cholera out
 
 ---
 
-## Overview
+## **Overview**
 
 CHOLDAT provides an intuitive platform for analyzing cholera case data over time and across regions. It supports effective data-driven decision-making by public health officials, researchers, and NGOs.
 
 ---
 
-## Features
+## **Features**
 
 - Interactive dashboard with filtering by year, region, and case type
 - Visualizations of cholera trends over time
@@ -27,7 +27,7 @@ CHOLDAT provides an intuitive platform for analyzing cholera case data over time
 
 ---
 
-## Technologies Used
+## **Technologies Used**
 
 - R  
 - Shiny  
@@ -38,7 +38,7 @@ CHOLDAT provides an intuitive platform for analyzing cholera case data over time
 
 ---
 
-## 🚀 How to Run Locally
+## **How to Run Locally**
 
 1. Clone this repository:
    ```bash
