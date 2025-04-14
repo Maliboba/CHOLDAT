@@ -3,7 +3,7 @@
 
 ### 📁 **README.md for CHOLDAT - Cholera Database**
 
-```markdown
+
 # **CHOLDAT – Cholera Database**
 
 An interactive Shiny app designed to monitor, visualize, and explore cholera outbreak data across regions.
